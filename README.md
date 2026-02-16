@@ -20,15 +20,15 @@ A **hearth** is the heart of the home where family gathers, stories are shared, 
 
 HearthPortal is both: a warm, inviting doorway to your private AI. One address that opens into a world where you, your family, or your community can safely explore, learn, and use AI that runs on your hardware, under your control.
 
+### ✨ The Vision for Everyone
+
 > *"Access to computers and anything that might teach you something about the way the world works should be unlimited and total. Always yield to the Hands-On Imperative!"*
 > — Steven Levy, *Hackers: Heroes of the Computer Revolution* pg 28, talking about Hacker Ethic.
 
-> *"Chouinard decided he needed to make his own gear. At the very least, doing so would give him control of the equipment he was counting on to save his life.”*
-> — David Gelles' *Dirtbag Billionaire* pg 29, talking about Yvon Chouinard rock climbing.
+> *"Chouinard decided he needed to make his own gear. At the very least, doing so would give him control of the equipment he was counting on to save his life. Perhaps he could make some money at it, too.”*
+> — David Gelles' *Dirtbag Billionaire* pg 29, talking about Yvon Chouinard rock climbing and going on to found Patagonia.
 
 Wield the fire of AI the way you want with unlimited access, total control, and the satisfaction of knowing you built it yourself. Hands on, from the metal up.
-
-### ✨ The Vision for Everyone
 
 #### 👤 For Individuals
 
